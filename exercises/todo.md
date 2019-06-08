@@ -13,19 +13,22 @@ Once you have completed the development of the application, I will take ownershi
 I would like the application to be written using JavaScript, which I already have familiarity with, and to have a web UI using HTML and CSS.
 
 
-
-## README
+### README
 
 I would like an extensive README that documents what technology was used to build the application, as well as instructions on how to build it myself. 
 
 Please include documentation on what data types were used for different portions of the application and why they were used, any details about testing the application, as well as the file/folder structure.
 
 
-## Dependency Management
+### Dependency Management
 
 Please use [npm](https://npmjs.com) for package management. Specify your dependencies in a `package.json` file in the root directory of your app.
 
 Please don't check the `node_modules` folder in to source control by using a `.gitignore`  file to avoid that.
+
+### Tests
+
+Please have tests written that verify that the todo application works as expected. The tests should verify that the JavaScript code works as expected, but the tests are not required for the user interface.
 
 ## Functionality
 
